@@ -38,7 +38,7 @@ body{
 
 .titulo {
     z-index: 2;
-    background-image: url(imagens/verduras_inteiras-01.png);
+    background-image: url(./imagens/verduras_inteiras-01.png);
     background-size: 102vw;
     padding-top: 23vw;
     text-align: center;
